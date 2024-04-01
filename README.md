@@ -1,15 +1,15 @@
 # NewsMania - A react based news application
 ## Based on NEWS API
 ### Features
-Catagory Based News
+Category Based News
 Simple Minimal UI
 Responsive UI
 
 ### Future Plans
-A seperate Weather Section is planned to be added in this web aplication.
+To Improve the Overall UI of the application.
 
 ## How to run
-This is a react project, can be run using npm run command from the terminal.
+This is the final build of the React App. Extract the zip file, Open it in VSCode, and run it on the live server.
 
 ### Made By
 Made By Pawan
