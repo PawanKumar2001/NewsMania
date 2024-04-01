@@ -1,9 +1,12 @@
 # NewsMania - A react based news application
-## Based on NEWS API
+## Based on NEWS API and WeatherAPI
 ### Features
 Category Based News
 Simple Minimal UI
 Responsive UI
+
+Weather Section
+A separate weather section.
 
 ### Future Plans
 To Improve the Overall UI of the application.
